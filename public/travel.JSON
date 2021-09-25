@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "placeName": "CoxsBazar",
+        "location": "Chittagong",
+        "view": "Ocean",
+        "cost": 9000,
+        "img": "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/10/e2/f8/43/longest-sea-beach-in.jpg"
+    },
+    {
+        "id": 2,
+        "placeName": "Sundarban",
+        "location": "Khulna",
+        "view": "Forest",
+        "cost": 6000,
+        "img": "https://i.natgeofe.com/n/a50f7239-ff6d-4874-9448-25d94d8d1c80/sundarbans-bangladesh.jpg"
+    },
+    {
+        "id": 3,
+        "placeName": "Kuakata",
+        "location": "Potuakhali",
+        "view": "Sagarkonya",
+        "cost": 8000,
+        "img": "https://thefinancialexpress.com.bd/uploads/1593967459.jpg"
+    },
+    {
+        "id": 4,
+        "placeName": "Sajek valley",
+        "location": "Rangamati",
+        "view": "Hill",
+        "cost": 12000,
+        "img": "https://avijatrik.org/wp-content/uploads/2019/06/cover22-870x555.jpg"
+    },
+    {
+        "id": 5,
+        "placeName": "Mount Everest",
+        "location": "Nepal",
+        "view": "Hill",
+        "cost": 150000,
+        "img": "https://www.outsideonline.com/wp-content/uploads/2021/05/18/everest-sunset-landscape_s.jpg?crop=1:1&width=600&enable=upscale"
+    },
+    {
+        "id": 6,
+        "placeName": "Chalan bil",
+        "location": "Bangladesh",
+        "view": "Bil",
+        "cost": 5000,
+        "img": "http://4.bp.blogspot.com/-TXhNZ_0NlhI/UfbTDF-_3XI/AAAAAAAAATk/sfCMhSPubfU/s1600/Beautifull+Chalanbil+great+looks+Phot+Credit-+Shobuz+Sarker.jpg"
+    },
+    {
+        "id": 7,
+        "placeName": "Mecca",
+        "location": "Saudi Arabia",
+        "view": "Holy Land",
+        "cost": 300000,
+        "img": "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/thumbnail/lead/news/1884084_New%20Project.jpg"
+    },
+    {
+        "id": 8,
+        "placeName": "Sundarban",
+        "location": "Khulna",
+        "view": "Forest",
+        "cost": 6000,
+        "img": "https://i.natgeofe.com/n/a50f7239-ff6d-4874-9448-25d94d8d1c80/sundarbans-bangladesh.jpg"
+    },
+    {
+        "id": 9,
+        "placeName": "Kuakata",
+        "location": "Potuakhali",
+        "view": "Sagarkonya",
+        "cost": 8000,
+        "img": "https://thefinancialexpress.com.bd/uploads/1593967459.jpg"
+    },
+    {
+        "id": 10,
+        "placeName": "Sajek valley",
+        "location": "Rangamati",
+        "view": "Hill",
+        "cost": 12000,
+        "img": "https://avijatrik.org/wp-content/uploads/2019/06/cover22-870x555.jpg"
+    },
+    {
+        "id": 11,
+        "placeName": "Mount Everest",
+        "location": "Nepal",
+        "view": "Hill",
+        "cost": 150000,
+        "img": "https://www.outsideonline.com/wp-content/uploads/2021/05/18/everest-sunset-landscape_s.jpg?crop=1:1&width=600&enable=upscale"
+    },
+    {
+        "id": 12,
+        "placeName": "Chalan bil",
+        "location": "Bangladesh",
+        "view": "Bil",
+        "cost": 5000,
+        "img": "http://4.bp.blogspot.com/-TXhNZ_0NlhI/UfbTDF-_3XI/AAAAAAAAATk/sfCMhSPubfU/s1600/Beautifull+Chalanbil+great+looks+Phot+Credit-+Shobuz+Sarker.jpg"
+    }
+]
