@@ -6,6 +6,6 @@ This project make was bootstrapped with react app https://travelersparadise.netl
 
 This Project related to world tour oganazition.
 
-## whay this app use?
+## whay do this app use?
 
 If you want to take a world tour,you can get ideas from here.As you can set the budget ,you can ideason how to go aboutit.
