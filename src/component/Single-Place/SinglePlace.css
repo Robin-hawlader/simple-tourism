@@ -1,3 +1,10 @@
 .img-resize{
     height: 200px;
 }
+.single-cart{
+    transition: 0.6s;
+}
+.single-cart:hover{
+    box-shadow: 4px 4px 7px gray;
+    border: 1px solid cyan;
+}

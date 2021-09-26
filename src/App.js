@@ -5,7 +5,7 @@ import TravelPlace from './component/Travel-Place/TravelPlace';
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <Header></Header>
       <TravelPlace></TravelPlace>
     </div>
